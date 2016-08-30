@@ -11,6 +11,7 @@
     "jquery"
   ],
   "author": "Daniel Fitzpatrick <dancyfits@gmail.com>",
+  "description": "Fork of https://github.com/xowei/frontend-workflow.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/webpresenceio/frontend-workflow.git"
